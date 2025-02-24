@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from "motion/react";
 
-import FeedBackItem from "./FeedBackItem";
+import FeedBackItem from "./FeedbackItem";
 import FeedbackContext from "../context/FeedbackContext";
 import { useContext } from "react";
 
